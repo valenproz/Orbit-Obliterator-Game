@@ -19,3 +19,6 @@
 - SPACE	Begin/restart the magic
 
 - Q	When the magic becomes too much
+
+<img width="1001" height="779" alt="image" src="https://github.com/user-attachments/assets/7fe6988a-cc02-4c83-b5f3-2c738e8eef1c" />
+

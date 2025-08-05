@@ -1,14 +1,21 @@
-# 🚀 Mythical Exploration
+# 🐾 Mythical Catcher ✨
 
-**Help the Magical Kitty gain new Mythical Friends!**
+**When an ordinary kitty gains powers beyond his comprehension, he embarks on a journey to capture new magical friends!**
 
-## 🌌 Features
-- Capture mythical creatures
-- Game speeds up as you survive longer
-- Compete for high scores with increasing multipliers
+## 🌟 Magical Features
+- Play as a spellbound cat with an enchanting cauldron  🧙‍♂️
+
+- Catch 6 enchanting creatures: Unicorns, dragons, mermaids, gnomes, cylops, and centaurs! 🦄 
+
+- Enchanting soundtrack that follows your adventure 🎶
+
+-  Growing magic intensity - creatures fall faster as your power grows! ⚡
+
+- 9 lives? Just 3... but they're cute paw prints! 💖
   
-## 🎮 How to Play
+## 🔮 Controls - Magic Gestures
+- ← →	Guide your floating basket
 
-- Left/Right Arrows move the Kitty
-- Capture the mythical creatures before they pass
-- 3 missed Mythical Creatures ends the game
+- SPACE	Begin/restart the magic
+
+- Q	When the magic becomes too much
